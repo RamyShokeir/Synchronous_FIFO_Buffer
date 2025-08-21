@@ -1,0 +1,17 @@
+../Coverage/Coverage.sv
+../Configuration/Config.sv
+../Assertions/SVA.sv
+../Sequence/reset_sequence.sv
+../Sequence/main_sequence.sv
+../Scoreboard/Scoreboard.sv
+../Sequence_Item/Sequence_Item.sv
+../Sequencer/Sequencer.sv
+../Dut/Sync_Buffer.sv
+../Driver/Driver.sv
+../Interface/FIFO_Interface.sv
+../Monitor/Monitor.sv
+../Package/Sync_Buffer_pkg.sv
+../Agent/Agent.sv
+../Environment/Env.sv
+../Test/Test.sv
+../Top/Top.sv
